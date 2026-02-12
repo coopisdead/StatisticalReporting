@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+
+# Database files (GeoLite2 has licensing restrictions)
+Resources/GeoLite2-Country_*.mmdb
+
+# IDE files
+.vs/
+*.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
